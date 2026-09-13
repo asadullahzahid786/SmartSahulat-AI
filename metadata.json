@@ -1,0 +1,6 @@
+{
+  "name": "SmartSahulat AI",
+  "description": "AI-powered citizen assistant for Pakistan. Understands citizen problems in Urdu, English, and Roman Urdu, delivers practical action plans, and drafts professional complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
